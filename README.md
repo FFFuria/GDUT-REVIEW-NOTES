@@ -16,10 +16,10 @@
 | 线性代数 | 📅 待建 | main |
 | 高等数学 | 📅 待建 | main |
 ## 📦 快速开始
-# 1. 整库克隆（含所有课程）
+### 1. 整库克隆（含所有课程）
 `git clone https://github.com/Kyunana097/GDUT-REVIEW-NOTES.git`
 
-# 2. 进入对应课程直接开背
+### 2. 进入对应课程直接开背
 `cd GDUT-REVIEW-NOTES/NOTES`
 ## 🤝 贡献指南
 Fork → 新建分支 → 提交 PR
