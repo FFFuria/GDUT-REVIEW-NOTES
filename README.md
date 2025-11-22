@@ -44,11 +44,12 @@ Fork → 新建分支 → 提交 PR
 ## 贡献者
 感谢以下小伙伴对本仓库的贡献（排名不分先后）：
 - abnormalvis
-- BI7KHI
 - charsiu-applepie
 - DuDuLu666-lab
 - FFFuria
 - hongliu114
 - hzyj377
+- molqzone
 - TONJA233
 - Varlin-iScience
+- Xuanna024
