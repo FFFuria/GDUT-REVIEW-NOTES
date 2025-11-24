@@ -12,7 +12,7 @@
 | 人工智能导论 | ✅ 完成  | automation |
 | 大学物理学 | 🚧 40% | main |
 | 计算机网络 | 🚧 60% | automation |
-| C语言数据结构 | 🚧 60% | automation |
+| C语言数据结构 | 🚧 40% | automation |
 | 模拟电子技术基础 | 🚧 60% | main |
 | 思想道德与法治 | ✅ 完成 | main |
 | 国家安全 | ✅ 完成 | main |
@@ -46,13 +46,15 @@ Fork → 新建分支 → 提交 PR
 🚀 晚上好好学，4.0不是梦！
 ## 贡献者
 感谢以下小伙伴对本仓库的贡献（排名不分先后）：
-- abnormalvis
-- charsiu-applepie
-- DuDuLu666-lab
-- FFFuria
-- hongliu114
-- hzyj377
-- molqzone
-- TONJA233
-- Varlin-iScience
-- Xuanna024
+- [abnormalvis](https://github.com/abnormalvis)
+- [charsiu-applepie](https://github.com/charsiu-applepie)
+- [Chen-dll](https://github.com/Chen-dll)
+- [DuDuLu666-lab](https://github.com/DuDuLu666-lab)
+- [FFFuria](https://github.com/FFFuria)
+- [hongliu114](https://github.com/hongliu114)
+- [hzyj377](https://github.com/hzyj377)
+- [molqzone](https://github.com/molqzone)
+- [RanderDouble](https://github.com/RanderDouble)
+- [TONJA233](https://github.com/TONJA233)
+- [Varlin-iScience](https://github.com/Varlin-iScience)
+- [Xuanna024](https://github.com/BI7KHI)
